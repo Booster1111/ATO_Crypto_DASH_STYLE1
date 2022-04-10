@@ -4,10 +4,10 @@ Want to create an incredible Bitcoin Cryptocurrency & ICO (Initial Coin Offer) w
 Template comes with all the corresponding sub pages. The template is super easy-to-customize.
 ____________________________________________________________________________________________________________________
 screenshot
-
+![bomex-cryptocurrency-bitcoin-html-template](https://user-images.githubusercontent.com/89033750/162638378-914d8188-673c-4a72-9736-4d64075fd3ed.png)
 ____________________________________________________________________________________________________________________
 Features
-____________________________________________________________________________________________________________________
+
 Includes 5 Home pages
 Includes 14 Inner pages
 Valid HTML5 / CSS3
